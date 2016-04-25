@@ -1,0 +1,15 @@
+.col-md-4 {
+  background: slategray;
+  border: 5px solid black;
+  box-shadow: 2px 2px 5px;
+  text-align: center;
+  color: #fff;
+}
+
+.delete{
+  color: black;
+}
+
+.completed{
+  background: cyan;
+}
